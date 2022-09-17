@@ -13,16 +13,16 @@ const data = [
     {
         id: 1,
         image: IMG1,
-        title: 'Crypto Currency Dashboard & Financial Visualization',
-        github: 'https://github.com',
+        title: 'Covid Tracker',
+        github: 'https://github.com/inferno332/covid-tracker',
         demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization',
     },
     {
         id: 2,
         image: IMG2,
-        title: 'Charts templates & infographics in Figma',
-        github: 'https://github.com',
-        demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma',
+        title: 'Youtube Clone',
+        github: 'https://github.com/inferno332/youtube_clone',
+        demo: 'https://yt-clone-reaxt.netlify.app/',
     },
     {
         id: 3,
@@ -55,7 +55,7 @@ const data = [
 ];
 export default function Portfolio() {
     return (
-        <section id='portfolio'>
+        <section id="portfolio">
             <h5>My Rencent Work</h5>
             <h2>Portfolio</h2>
 
